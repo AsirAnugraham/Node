@@ -1,0 +1,4 @@
+v8 engine?
+1) V8 is the name of the JavaScript engine that powers Google Chrome. It's the thing that takes our JavaScript and executes it while browsing with Chrome. 
+2) The machine does not understand java script code so v8 engine is used .
+3) The v8 engine converts javascript code to machine language through c++. 
