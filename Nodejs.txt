@@ -1,0 +1,10 @@
+1) What is Node.js?
+ is an open source server environment
+ is free
+ runs on various platforms
+ uses JavaScript on the server
+2) what can node js do?
+It can create dynamic page content
+It can create read write delete and close files on the server
+It can collect form data
+It can add delete modify data in database
