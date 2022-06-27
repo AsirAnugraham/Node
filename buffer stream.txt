@@ -1,0 +1,7 @@
+1)Tempory Storage spot for a chunck od data that is being transferred from one place to another. 
+2) The buffer is filled with data then passed along.
+3)Transfer small chunks os data at a time. 
+
+STREAMS
+1)We can create stream in Nodejs to transfer data.
+2) Increase Performance.
