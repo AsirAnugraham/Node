@@ -1,0 +1,17 @@
+EXPRESS 
+
+1) Easy and Flexible routing system.
+2)Intergrates with many templating engines.
+3)Contains a middleware Framework.
+
+HTTP Methods
+
+1)GET
+2)POST
+3)DELETE
+4)PUT
+
+Responding
+1)GET -app.get('route',fn)
+2)POST -app.post('route',fn)
+3)DELETE -app.delete('route',fn)
