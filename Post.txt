@@ -1,0 +1,5 @@
+ POST REQUESTS
+
+-POST is a request method
+-POST requests,ask the server to accept/store data which is enclosed in the body of the request
+-Often used in submitting forms.
