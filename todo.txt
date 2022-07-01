@@ -1,0 +1,18 @@
+What is todo app in node js?
+ This application is a very basic one but it has the following features: Add and complete a task on a single page.
+ Store both new and completed task in a different array.
+ Uses the express framework. And a very minimal CSS styling.
+
+This application is a very basic one but it has the following features:
+
+Add and complete a task on a single page
+Store both new and completed task in a different array
+Uses the express framework
+And a very minimal CSS styling
+
+Base Setup:
+
+Create an empty directory named todo-app
+Open up the console, navigate to the directory and run npm init
+Fill out the required information to initialize the project
+Within the todo-app directory, create a new file named app.js — this is where we will put most of our code.
