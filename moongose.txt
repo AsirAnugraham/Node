@@ -1,0 +1,21 @@
+-Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js.
+-It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB. 
+-MongoDB is a schema-less NoSQL document database.
+
+What does Mongoose model do?
+
+-The mongoose. model() function of the mongoose module is used to create a collection of a particular database of MongoDB. 
+-The name of the collection created by the model function is always in plural format mean GFG to gfss and the created collection imposed a definite structure
+
+
+
+How Mongoose read data from NodeJS?
+-Fetch data from MongoDB Using Mongoose and Node. js Express
+-Install Express Application.
+-Connect Node.js to MongoDB database.
+-Create a Model to Fetch Data.
+-Create a Controller to Fetch Data.
+-Display Data in HTML Table.
+-Create a Route to fetch Data.
+-Include and Use the Router in app.js.
+-Run Node.js app to Fetch Data.
